@@ -12,8 +12,8 @@ java swing audio
 * 한번의 되돌리기 기능
 * audio wav파일 재생
 
-<img src = './img/choice.jpg' width = '600' height = '450' />
-<img src = './img/game.jpg' width = '600' height = '450' />
-<img src = './img/score.jpg' width = '600' height = '450' />
+<img src = './img/choice.JPG' width = '600' height = '450' />
+<img src = './img/game.JPG' width = '600' height = '450' />
+<img src = './img/score.JPG' width = '600' height = '450' />
 
 
