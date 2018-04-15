@@ -1,5 +1,6 @@
 # ScissorsButtons
-Scissors & Button 게임 ->  가로, 세로, 대각선에 같은 그림 모양을 없애 모두 5X5를 없애는 게임
+
+#### Scissors & Button 게임 ->  가로, 세로, 대각선에 같은 그림 모양을 없애 모두 5X5를 없애는 게임
 
 java swing audio
 
